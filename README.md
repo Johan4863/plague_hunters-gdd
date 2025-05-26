@@ -1,4 +1,4 @@
-# ☣️ PLAGUE HUNTERS  
+# ☣️ PLAGUE HUNTERS - Tales from Osiris
 
 ## 📜 CONCEPT  
 You are a survivor left by your team on the deadly planet Osiris. All you can do is adapt or die.
